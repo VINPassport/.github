@@ -12,7 +12,7 @@
 
 From **1 September 2032**, every vehicle placed on the EU market must carry a Digital Circularity
 Vehicle Passport under [Regulation (EU) 2026/1738](https://eur-lex.europa.eu/eli/reg/2026/1738/oj),
-in force since 13 August 2026. The regulation requires that passport to be *aligned and interoperable
+Article 13, in force since 13 August 2026. The regulation requires that passport to be *aligned and interoperable
 with other vehicle related environmental passports*, most obviously the EV battery passport
 mandatory from February 2027.
 
