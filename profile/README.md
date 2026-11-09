@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VINPassport/.github/main/profile/vinpassport-banner.png" alt="VINPassport, proving a vehicle identity" width="700"/>
+  <img src="https://raw.githubusercontent.com/VINPassport/.github/main/profile/vinpassport-header.png" alt="VINPassport" width="750"/>
   <p><strong>A Digital Circularity Vehicle Passport built on Midnight's zero-knowledge blockchain.</strong></p>
   <p>Prove what a vehicle is. Reveal only what the asker is entitled to see.</p>
   <p>
